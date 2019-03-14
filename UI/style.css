@@ -4,7 +4,6 @@ body{
     background-image: url(/home/user/Documents/Projects/iReporter/UI/static/images/robert-v-ruggiero-1169393-unsplash.jpg);
     background-position: center;
     background-size: cover;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
     
 }
@@ -19,8 +18,11 @@ img{
 
 }
 .boxed{
-    display: inline;
-
+    display: flex ;
+    position: absolute;
+    flex-direction: row-reverse;
+    left: 130px;
+    justify-content: space-between;
 }
 .loginbox{
     width: 400px;
@@ -36,3 +38,11 @@ img{
     opacity: 0.5;
 }
 
+h1{
+    font-family: monospace;
+    font-size: 30px;
+
+}
+h3{
+    color: red;
+}
