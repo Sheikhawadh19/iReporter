@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(/home/user/Documents/Projects/iReporter/UI/static/images/robert-v-ruggiero-1169393-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+
+}
+.boxed{
+    display: inline;
+
+}
+.loginbox{
+    width: 400px;
+    height: 350px;
+    display: inline;
+    top: 60%;
+    left: 20%;
+    position: absolute;
+    transform: translate(-40%, -50%);
+    box-sizing: border-box;
+    border-radius: 50%;
+    background: rgba(211,211,211 ,1 );
+    opacity: 0.5;
+}
+
