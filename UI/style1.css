@@ -18,7 +18,7 @@ img{
     border-radius: 50%;
 }
 .title{
-    color: blanchedalmond;
+    color: black;
     text-align: center;
   
 }
@@ -36,11 +36,11 @@ form{
   background-color: white;
 }
 .username{
-    color:  blanchedalmond ;
+    color:  black ;
     opacity: 0.5;
 }
 .password{
-    color: blanchedalmond;
+    color: black;
     opacity: 0.5;
 }
 
@@ -59,7 +59,7 @@ form{
 .loginbox{
     width: 300px;
     height: 500px;
-    background: sienna;
+    background: wheat;
     top: 50%;
     left: 50%;
     position: absolute;
