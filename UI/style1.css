@@ -65,6 +65,6 @@ form{
     position: absolute;
     transform: translate(-50%, -50%);
     box-sizing: border-box;
-    opacity: 0.3;
+    opacity: 0.6;
     border-radius: 20px;
 }
