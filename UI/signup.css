@@ -31,7 +31,12 @@ form{
   height: 30px;
   background-color: red;
 }
+<<<<<<< HEAD:UI/signup.css
+#signup:hover
+{
+=======
 #signup:hover{
+>>>>>>> ae16b54cba50d9b3041385d1584f16c5b490918b:UI/signup.css
   background-color: white;
 }
 .username{
@@ -64,7 +69,7 @@ form{
     position: absolute;
     transform: translate(-50%, -50%);
     box-sizing: border-box;
-    opacity: 0.3;
+    opacity: 0.6;
     border-radius: 20px;
 }
 h1{
