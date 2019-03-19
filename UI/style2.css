@@ -26,13 +26,12 @@ form{
    display: block;
 
 }
-#login{
+#signup{
     width: 60px;
   height: 30px;
   background-color: red;
 }
-#login:hover
-{
+#signup:hover{
   background-color: white;
 }
 .username{
