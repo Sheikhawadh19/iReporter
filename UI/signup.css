@@ -58,14 +58,14 @@ form{
 }
 .loginbox{
     width: 300px;
-    height: 550px;
+    height: 600px;
     background: rgb(102, 102, 206);
     top: 50%;
     left: 50%;
     position: absolute;
     transform: translate(-50%, -50%);
     box-sizing: border-box;
-    opacity: 0.8;
+    opacity: 1;
     border-radius: 20px;
 }
 h1{
