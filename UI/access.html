@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" type="text/css" href="access.css">
+<body>
+    	<!-- menu -->
+	<nav>
+            <ul>
+                <li><a href="Menupage.html">Home</a></li>
+                <li><a href="record.html">Records</a></li>
+                <li><a href="profile.html">Profile</a></li>
+            </ul>
+        
+            <ol>
+            <a id="logout" href="Welcome page.html">Log Out</a>
+            </ol>
+        </nav>
+
+<form class="formarea" method='post'>
+    Name: <input type='text' name='name' id='name' /><br />
+    Email: <input type='text' name='email' id='email' /><br />
+    <input type="radio" name="gender" value="male"> Red Flag<br>
+<input type="radio" name="gender" value="female"> Intervention<br>
+
+    Comment about it: <textarea name='comment' id='comment'></textarea><br />
+    <input type='hidden' name='articleid' id='articleid' value='<? echo $_GET["id"]; ?>' />
+    <input type='submit' value='Submit' />
+    </form>
+</body>
+</html>

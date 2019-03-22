@@ -1,7 +1,7 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-image: url(/home/user/Documents/Projects/iReporter/UI/static/images/robert-v-ruggiero-1169393-unsplash.jpg);
+    background-image: url(/home/user/Documents/Projects/iReporter/UI/static/images/human-65931.jpg);
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -35,7 +35,7 @@ img{
     box-sizing: border-box;
     border-radius: 50%;
     background: rgba(211,211,211 ,1 );
-    opacity: 0.5;
+    opacity: 0.7;
 }
 
 h1{
