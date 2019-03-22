@@ -1,7 +1,7 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-image: url(/home/user/Documents/Projects/iReporter/UI/static/images/feo-con-ganas-479610-unsplash.jpg);
+    background-image: url(/home/user/Documents/Projects/iReporter/UI/static/images/hand-1592415.jpg);
     background-position: center;
     background-size: cover;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -59,12 +59,15 @@ form{
 .loginbox{
     width: 300px;
     height: 500px;
-    background: wheat;
+    background: rgb(102, 102, 206);
     top: 50%;
     left: 50%;
     position: absolute;
     transform: translate(-50%, -50%);
     box-sizing: border-box;
-    opacity: 0.6;
+    opacity: 0.8;
     border-radius: 20px;
+}
+.loginbtn{
+    background: red;
 }
