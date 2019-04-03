@@ -32,7 +32,7 @@ $ cd iReporter/UI
 
 3. Initialize and activate a Virtualenv
 
-```
+``
 $ virtualenv venv
 $ source venv/bin/activate
 ```
