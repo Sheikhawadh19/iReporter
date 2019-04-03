@@ -2,7 +2,8 @@
 
 iReporter enables any/every citizen to bring any form of corruption to the notice of appropriate authorities and the general public. Users can also report on things that needs government intervention.
 
-[Find the project here](https://github.com/Sheikhawadh19/iReporter/blob/gh-pages/UI/Welcome%20page.html)
+[Find the project here](file:///home/user/Documents/Projects/iReporter/UI/Welcome%20page.html)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
