@@ -86,7 +86,7 @@ nav:hover ~ article:after
 	left: 60%;
 }
 body{
-    background-image: url(/home/user/Documents/Projects/iReporter/UI/static/images/human-65931.jpg);
+    background-image: url(images/human-65931.jpg);
 }
 h4{
 text-align: center;

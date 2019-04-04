@@ -1,11 +1,11 @@
-*body
+body
 {
 	font-family: sans-serif;
 	font-size: 100%;
 	padding: 0;
 	margin: 0;
 	color: #333;
-    background-image: url(/home/user/Documents/Projects/iReporter/UI/static/images/joshua-rawson-harris-668614-unsplash.jpg);
+    background-image: url(images/joshua-rawson-harris-668614-unsplash.jpg);
 }
 
 /* main page */
